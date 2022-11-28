@@ -1,5 +1,7 @@
 # Neue OSD Font
 
+![Preview](img/Neue_preview_v0.1.0.png)
+
 This is a font set for [msp-osd](https://github.com/fpv-wtf/msp-osd) from [fpv.wtf](https://fpv.wtf/).  
 Typeface based on [The Neue Black](https://www.theleagueofmoveabletype.com/the-neue-black).  
 Icons mostly based on [Google Material Symbols](https://fonts.google.com/icons).  
